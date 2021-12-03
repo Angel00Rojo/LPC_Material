@@ -1,0 +1,2435 @@
+Microsoft Windows [Versión 10.0.19042.1237]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\migue>ipconfig /displaydns
+
+Configuración IP de Windows
+
+    cdn.riceateastcach.us
+    ----------------------------------------
+    Nombre de registro  . : cdn.riceateastcach.us
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591090
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.riceateastcach.us
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    rp.yefeneri2.com
+    ----------------------------------------
+    Nombre de registro  . : rp.yefeneri2.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591090
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    rp.yefeneri2.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    edge.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : edge.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 2
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-microsoft-com.a-0016.a-msedge.net
+
+
+    Nombre de registro  . : edge-microsoft-com.a-0016.a-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 2
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0016.a-msedge.net
+
+
+    edge.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : edge.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 120
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-microsoft-com.a-0016.a-msedge.net
+
+
+    Nombre de registro  . : edge-microsoft-com.a-0016.a-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 120
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0016.a-msedge.net
+
+
+    Nombre de registro  . : a-0016.a-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 120
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 204.79.197.219
+
+
+    cdn.inskinmedia.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.inskinmedia.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591089
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.inskinmedia.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    proxyjudge.biz
+    ----------------------------------------
+    Nombre de registro  . : proxyjudge.biz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 55394
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 207.246.70.16
+
+
+    imap.tiscali.it
+    ----------------------------------------
+    Nombre de registro  . : imap.tiscali.it
+    Tipo de registro  . . : 5
+    Período de vida . . . : 7519
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : pop.tiscali.it
+
+
+    Nombre de registro  . : pop.tiscali.it
+    Tipo de registro  . . : 1
+    Período de vida . . . : 7519
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.205.33.10
+
+
+    cdn.visualbee.net
+    ----------------------------------------
+    Nombre de registro  . : cdn.visualbee.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591089
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.visualbee.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    os.yefeneri2.com
+    ----------------------------------------
+    Nombre de registro  . : os.yefeneri2.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591089
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    os.yefeneri2.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.cdndp.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.cdndp.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591089
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.cdndp.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    green.cablesparking.net
+    ----------------------------------------
+    Nombre de registro  . : green.cablesparking.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 70
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 195.181.164.195
+
+
+    aweprt.com
+    ----------------------------------------
+    Nombre de registro  . : aweprt.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 12493
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 93.93.51.191
+
+
+    analytics.urban-vpn.com
+    ----------------------------------------
+    Nombre de registro  . : analytics.urban-vpn.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 50
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : analytics.urbanint.net
+
+
+    Nombre de registro  . : analytics.urbanint.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 50
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 148.72.152.126
+
+
+    nsis.bisrv.com
+    ----------------------------------------
+    Nombre de registro  . : nsis.bisrv.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591088
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    nsis.bisrv.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    imap.lycos.com
+    ----------------------------------------
+    Nombre de registro  . : imap.lycos.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1603
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : mail.lycos.com.cust.b.hostedemail.com
+
+
+    Nombre de registro  . : mail.lycos.com.cust.b.hostedemail.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1603
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 64.98.36.139
+
+
+    www.google.it
+    ----------------------------------------
+    Nombre de registro  . : www.google.it
+    Tipo de registro  . . : 28
+    Período de vida . . . : 85
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:811::2003
+
+
+    www.google.it
+    ----------------------------------------
+    Nombre de registro  . : www.google.it
+    Tipo de registro  . . : 1
+    Período de vida . . . : 64
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.65.131
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 228
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8001::154
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 228
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8002::154
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 228
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8003::154
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 228
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8000::154
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 228
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 228
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 228
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : user-images.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 228
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    cdn.bisrv.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.bisrv.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.bisrv.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591088
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.mypcbackup.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.mypcbackup.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.mypcbackup.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591088
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    in.email.it
+    ----------------------------------------
+    Nombre de registro  . : in.email.it
+    Tipo de registro  . . : 1
+    Período de vida . . . : 84016
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 77.93.251.250
+
+
+    m.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : m.youtube.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 209
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.46
+
+
+    m.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : m.youtube.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 82
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:814::200e
+
+
+    ext.captcha.yandex.net
+    ----------------------------------------
+    Nombre de registro  . : ext.captcha.yandex.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 481
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a02:6b8::4:153
+
+
+    ext.captcha.yandex.net
+    ----------------------------------------
+    Nombre de registro  . : ext.captcha.yandex.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 135
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 87.250.251.153
+
+
+    crl3.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : crl3.digicert.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 345
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 345
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    collector.githubapp.com
+    ----------------------------------------
+    Nombre de registro  . : collector.githubapp.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : analytics-collector-28944298.us-east-1.elb.amazonaws.com
+
+
+    Nombre de registro  . : analytics-collector-28944298.us-east-1.elb.amazonaws.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 3.233.111.32
+
+
+    Nombre de registro  . : analytics-collector-28944298.us-east-1.elb.amazonaws.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 54.225.217.197
+
+
+    Nombre de registro  . : analytics-collector-28944298.us-east-1.elb.amazonaws.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.87.63.89
+
+
+    Nombre de registro  . : analytics-collector-28944298.us-east-1.elb.amazonaws.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 54.209.144.115
+
+
+    tr.arrowhurt.xyz
+    ----------------------------------------
+    Nombre de registro  . : tr.arrowhurt.xyz
+    Tipo de registro  . . : 28
+    Período de vida . . . : 150
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700:3036::6815:2b0b
+
+
+    Nombre de registro  . : tr.arrowhurt.xyz
+    Tipo de registro  . . : 28
+    Período de vida . . . : 150
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700:3035::ac43:d7b2
+
+
+    cdn.download.sweetpacks.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.download.sweetpacks.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.download.sweetpacks.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591085
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    tracking.opencandy.com.s3.amazonaws.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    tracking.opencandy.com.s3.amazonaws.com
+    ----------------------------------------
+    Nombre de registro  . : tracking.opencandy.com.s3.amazonaws.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591085
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    trafforsrv.com
+    ----------------------------------------
+    Nombre de registro  . : trafforsrv.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 428
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 67.22.42.112
+
+
+    cdn.appround.biz
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.appround.biz
+    ----------------------------------------
+    Nombre de registro  . : cdn.appround.biz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591085
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    crpop.livejasmin.com
+    ----------------------------------------
+    Nombre de registro  . : crpop.livejasmin.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 3372
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 93.93.51.191
+
+
+    www.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : www.youtube.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 123
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : youtube-ui.l.google.com
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 123
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:811::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 123
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:813::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 123
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:814::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 123
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:818::200e
+
+
+    www.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : www.youtube.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 124
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : youtube-ui.l.google.com
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.238
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.35.14
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.15.14
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.238
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.65.110
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.65.142
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.14
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.46
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.174
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.206
+
+
+    imap.t-online.de
+    ----------------------------------------
+    Nombre de registro  . : imap.t-online.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 55744
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 194.25.134.50
+
+
+    Nombre de registro  . : imap.t-online.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 55744
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 194.25.134.114
+
+
+    Nombre de registro  . : imap.t-online.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 55744
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 194.25.134.115
+
+
+    Nombre de registro  . : imap.t-online.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 55744
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 194.25.134.51
+
+
+    pt-static3.ptlwmstc.com
+    ----------------------------------------
+    Nombre de registro  . : pt-static3.ptlwmstc.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 8583
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 93.93.51.200
+
+
+    mining.develsoftware.com
+    ----------------------------------------
+    Nombre de registro  . : mining.develsoftware.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 142
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.34.216.35
+
+
+    Nombre de registro  . : mining.develsoftware.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 142
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 81.4.104.15
+
+
+    wordstat.yandex.ru
+    ----------------------------------------
+    Nombre de registro  . : wordstat.yandex.ru
+    Tipo de registro  . . : 5
+    Período de vida . . . : 384
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : advq.yandex.ru
+
+
+    Nombre de registro  . : advq.yandex.ru
+    Tipo de registro  . . : 1
+    Período de vida . . . : 384
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 213.180.204.30
+
+
+    webmail.fmgrimm.com
+    ----------------------------------------
+    Nombre de registro  . : webmail.fmgrimm.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1008
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 99.110.123.129
+
+
+    top-rebates.com
+    ----------------------------------------
+    Nombre de registro  . : top-rebates.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 11473
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 137.74.65.11
+
+
+    filter.pensarmedia.com
+    ----------------------------------------
+    Nombre de registro  . : filter.pensarmedia.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 893
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : pensarmedia.fs.ak-is2.net
+
+
+    Nombre de registro  . : pensarmedia.fs.ak-is2.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 893
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 174.137.133.20
+
+
+    Nombre de registro  . : pensarmedia.fs.ak-is2.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 893
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 174.137.133.19
+
+
+    cdn.ppdownload.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.ppdownload.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.ppdownload.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591082
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    api.opencandy.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    api.opencandy.com
+    ----------------------------------------
+    Nombre de registro  . : api.opencandy.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591082
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.tuto4pc.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.tuto4pc.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.tuto4pc.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591081
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    fabfastfashion.com
+    ----------------------------------------
+    Nombre de registro  . : fabfastfashion.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 13848
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 103.133.214.89
+
+
+    imap.web.de
+    ----------------------------------------
+    Nombre de registro  . : imap.web.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 84
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 212.227.17.162
+
+
+    Nombre de registro  . : imap.web.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 84
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 212.227.17.178
+
+
+    p309437.mybestdl.com
+    ----------------------------------------
+    Nombre de registro  . : p309437.mybestdl.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 11161
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 173.192.101.30
+
+
+    svalokingconvio.xyz
+    ----------------------------------------
+    Nombre de registro  . : svalokingconvio.xyz
+    Tipo de registro  . . : 28
+    Período de vida . . . : 141
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700:3036::ac43:841b
+
+
+    Nombre de registro  . : svalokingconvio.xyz
+    Tipo de registro  . . : 28
+    Período de vida . . . : 141
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700:3031::6815:483
+
+
+    svalokingconvio.xyz
+    ----------------------------------------
+    Nombre de registro  . : svalokingconvio.xyz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 141
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.67.132.27
+
+
+    Nombre de registro  . : svalokingconvio.xyz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 141
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.21.4.131
+
+
+    livebetting.mediasystemtechnologies.it
+    ----------------------------------------
+    Nombre de registro  . : livebetting.mediasystemtechnologies.it
+    Tipo de registro  . . : 1
+    Período de vida . . . : 364
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.2.36.39
+
+
+    w.sports.williamhill.com
+    ----------------------------------------
+    Nombre de registro  . : w.sports.williamhill.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : d2m13s7496crpj.cloudfront.net
+
+
+    Nombre de registro  . : d2m13s7496crpj.cloudfront.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 65.9.124.33
+
+
+    Nombre de registro  . : d2m13s7496crpj.cloudfront.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 65.9.124.28
+
+
+    Nombre de registro  . : d2m13s7496crpj.cloudfront.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 65.9.124.86
+
+
+    Nombre de registro  . : d2m13s7496crpj.cloudfront.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 65.9.124.63
+
+
+    cdn.dpdownload.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.dpdownload.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.dpdownload.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591081
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.insta.playbryte.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.insta.playbryte.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.insta.playbryte.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591080
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    galleryn1.awemdia.com
+    ----------------------------------------
+    Nombre de registro  . : galleryn1.awemdia.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 12411
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 93.93.51.190
+
+
+    syndication.realsrv.com
+    ----------------------------------------
+    Nombre de registro  . : syndication.realsrv.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 788
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : tk6if76q.ab1n.net
+
+
+    Nombre de registro  . : tk6if76q.ab1n.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 788
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 68.169.106.41
+
+
+    Nombre de registro  . : tk6if76q.ab1n.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 788
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 68.169.106.76
+
+
+    www.univest.net
+    ----------------------------------------
+    Nombre de registro  . : www.univest.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 992
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.200.39.23
+
+
+    cdn.insta.oibundles2.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.insta.oibundles2.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.insta.oibundles2.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591079
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    ko-burda.com
+    ----------------------------------------
+    Nombre de registro  . : ko-burda.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2220
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 45.84.189.146
+
+
+    www.google.com
+    ----------------------------------------
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 124
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:818::2004
+
+
+    www.google.com
+    ----------------------------------------
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 123
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.164
+
+
+    imap.suddenlinkmail.com
+    ----------------------------------------
+    Nombre de registro  . : imap.suddenlinkmail.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 39651
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 208.180.40.196
+
+
+    mobile.bet365.mx
+    ----------------------------------------
+    Nombre de registro  . : mobile.bet365.mx
+    Tipo de registro  . . : 1
+    Período de vida . . . : 6928
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 5.226.183.12
+
+
+    pt-static1.ptlwmstc.com
+    ----------------------------------------
+    Nombre de registro  . : pt-static1.ptlwmstc.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 12650
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 93.93.51.200
+
+
+    p440835.mybestdl.com
+    ----------------------------------------
+    Nombre de registro  . : p440835.mybestdl.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 19639
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 173.192.101.30
+
+
+    mx1.free.fr
+    ----------------------------------------
+    Nombre de registro  . : mx1.free.fr
+    Tipo de registro  . . : 1
+    Período de vida . . . : 14614
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 212.27.48.6
+
+
+    Nombre de registro  . : mx1.free.fr
+    Tipo de registro  . . : 1
+    Período de vida . . . : 14614
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 212.27.48.7
+
+
+    cdn.bigspeedpro.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.bigspeedpro.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.bigspeedpro.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591078
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    video-weaver.sao01.hls.ttvnw.net
+    ----------------------------------------
+    Nombre de registro  . : video-weaver.sao01.hls.ttvnw.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 981
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.223.210.1
+
+
+    inno.bisrv.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    inno.bisrv.com
+    ----------------------------------------
+    Nombre de registro  . : inno.bisrv.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591078
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    pt-static4.ptlwmstc.com
+    ----------------------------------------
+    Nombre de registro  . : pt-static4.ptlwmstc.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5523
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 93.93.51.200
+
+
+    cdn.solimba.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.solimba.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.solimba.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591077
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    installer.filebulldog.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    installer.filebulldog.com
+    ----------------------------------------
+    Nombre de registro  . : installer.filebulldog.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591077
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    ip6only.me
+    ----------------------------------------
+    Nombre de registro  . : ip6only.me
+    Tipo de registro  . . : 28
+    Período de vida . . . : 1506
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:4838:0:1b::201
+
+
+    myfood.ltd
+    ----------------------------------------
+    Nombre de registro  . : myfood.ltd
+    Tipo de registro  . . : 1
+    Período de vida . . . : 11234
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.139.128.10
+
+
+    l2.io
+    ----------------------------------------
+    Nombre de registro  . : l2.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 47801
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 195.80.159.133
+
+
+    cdn.msdwnld.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.msdwnld.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.msdwnld.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591077
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    evolombus.com
+    ----------------------------------------
+    Nombre de registro  . : evolombus.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 345
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 134.122.124.100
+
+
+    cdn.bispd.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.bispd.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.bispd.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591077
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    imap.inbox.com
+    ----------------------------------------
+    Nombre de registro  . : imap.inbox.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 60464
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 64.135.83.20
+
+
+    wallet-api.btc.com
+    ----------------------------------------
+    Nombre de registro  . : wallet-api.btc.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 22
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : wallet-api.btc.com.cdn.cloudflare.net
+
+
+    Nombre de registro  . : wallet-api.btc.com.cdn.cloudflare.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 22
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700::6812:14cf
+
+
+    Nombre de registro  . : wallet-api.btc.com.cdn.cloudflare.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 22
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700::6812:15cf
+
+
+    wallet-api.btc.com
+    ----------------------------------------
+    Nombre de registro  . : wallet-api.btc.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 22
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : wallet-api.btc.com.cdn.cloudflare.net
+
+
+    Nombre de registro  . : wallet-api.btc.com.cdn.cloudflare.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 22
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.18.20.207
+
+
+    Nombre de registro  . : wallet-api.btc.com.cdn.cloudflare.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 22
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.18.21.207
+
+
+    imap.terra.com.br
+    ----------------------------------------
+    Nombre de registro  . : imap.terra.com.br
+    Tipo de registro  . . : 1
+    Período de vida . . . : 376
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 208.84.244.138
+
+
+    api.coinbase.com
+    ----------------------------------------
+    Nombre de registro  . : api.coinbase.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 24
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700::6812:60a
+
+
+    Nombre de registro  . : api.coinbase.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 24
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700::6812:70a
+
+
+    api.coinbase.com
+    ----------------------------------------
+    Nombre de registro  . : api.coinbase.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 23
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.18.6.10
+
+
+    Nombre de registro  . : api.coinbase.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 23
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.18.7.10
+
+
+    os2.yefeneri2.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    os2.yefeneri2.com
+    ----------------------------------------
+    Nombre de registro  . : os2.yefeneri2.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591075
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    www.shellsmart.com
+    ----------------------------------------
+    Nombre de registro  . : www.shellsmart.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 172
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 87.97.76.93
+
+
+    click-adc.realsh.xyz
+    ----------------------------------------
+    Nombre de registro  . : click-adc.realsh.xyz
+    Tipo de registro  . . : 1
+    Período de vida . . . : 80
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 62.122.171.157
+
+
+    api.recommendedsw.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    api.recommendedsw.com
+    ----------------------------------------
+    Nombre de registro  . : api.recommendedsw.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591074
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    media.opencandy.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    media.opencandy.com
+    ----------------------------------------
+    Nombre de registro  . : media.opencandy.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591074
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    pop.ohmoor.de
+    ----------------------------------------
+    Nombre de registro  . : pop.ohmoor.de
+    Tipo de registro  . . : 5
+    Período de vida . . . : 464
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : ohmoor.de
+
+
+    Nombre de registro  . : ohmoor.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 464
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 141.91.210.152
+
+
+    d3oxtn1x3b8d7i.cloudfront.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    d3oxtn1x3b8d7i.cloudfront.net
+    ----------------------------------------
+    Nombre de registro  . : d3oxtn1x3b8d7i.cloudfront.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591074
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    pt.protoawe.com
+    ----------------------------------------
+    Nombre de registro  . : pt.protoawe.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2899
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 93.93.51.191
+
+
+    galleryn3.awemdia.com
+    ----------------------------------------
+    Nombre de registro  . : galleryn3.awemdia.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 4369
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 93.93.51.190
+
+
+    secureimap.t-online.de
+    ----------------------------------------
+    Nombre de registro  . : secureimap.t-online.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28616
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 194.25.134.115
+
+
+    Nombre de registro  . : secureimap.t-online.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28616
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 194.25.134.114
+
+
+    Nombre de registro  . : secureimap.t-online.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28616
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 194.25.134.51
+
+
+    Nombre de registro  . : secureimap.t-online.de
+    Tipo de registro  . . : 1
+    Período de vida . . . : 28616
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 194.25.134.50
+
+
+    up.surfsharking.com
+    ----------------------------------------
+    Nombre de registro  . : up.surfsharking.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 56
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 195.181.169.93
+
+
+    kapxii.com.es
+    ----------------------------------------
+    Nombre de registro  . : kapxii.com.es
+    Tipo de registro  . . : 1
+    Período de vida . . . : 47341
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 173.214.162.186
+
+
+    oauth.vk.com
+    ----------------------------------------
+    Nombre de registro  . : oauth.vk.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 662
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 87.240.129.181
+
+
+    Nombre de registro  . : oauth.vk.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 662
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 87.240.129.135
+
+
+    cdn.goateastcach.us
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.goateastcach.us
+    ----------------------------------------
+    Nombre de registro  . : cdn.goateastcach.us
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591074
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    www.bet365.com
+    ----------------------------------------
+    Nombre de registro  . : www.bet365.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 6175
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 5.226.176.16
+
+
+    mbasic.facebook.com
+    ----------------------------------------
+    Nombre de registro  . : mbasic.facebook.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 7
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : touch.facebook.com
+
+
+    Nombre de registro  . : touch.facebook.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 7
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : star.facebook.com
+
+
+    Nombre de registro  . : star.facebook.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 7
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : star.c10r.facebook.com
+
+
+    Nombre de registro  . : star.c10r.facebook.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 7
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2a03:2880:f035:100:face:b00c:0:2
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1589
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1589
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1589
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.133
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1589
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.133
+
+
+    avatars.githubusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 111
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8000::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 111
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8001::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 111
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8002::154
+
+
+    Nombre de registro  . : avatars.githubusercontent.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 111
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:50c0:8003::154
+
+
+    gmail-smtp-in.l.google.com
+    ----------------------------------------
+    Nombre de registro  . : gmail-smtp-in.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 181
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4023:1002::1b
+
+
+    gmail-smtp-in.l.google.com
+    ----------------------------------------
+    Nombre de registro  . : gmail-smtp-in.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 177
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.114.26
+
+
+    cdn.llogetfastcach.us
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.llogetfastcach.us
+    ----------------------------------------
+    Nombre de registro  . : cdn.llogetfastcach.us
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591071
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.shyapotato.us
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.shyapotato.us
+    ----------------------------------------
+    Nombre de registro  . : cdn.shyapotato.us
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591071
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    0.0.0.0.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : 0.0.0.0
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : tracking.opencandy.com.s3.amazonaws.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : media.opencandy.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.opencandy.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : tracking.opencandy.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : api.opencandy.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : api.recommendedsw.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : rp.yefeneri2.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : os.yefeneri2.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : os2.yefeneri2.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : installer.betterinstaller.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : installer.filebulldog.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : d3oxtn1x3b8d7i.cloudfront.net
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : inno.bisrv.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : nsis.bisrv.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.file2desktop.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.goateastcach.us
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.guttastatdk.us
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.inskinmedia.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.insta.oibundles2.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.insta.playbryte.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.llogetfastcach.us
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.montiera.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.msdwnld.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.mypcbackup.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.ppdownload.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.riceateastcach.us
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.shyapotato.us
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.solimba.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.tuto4pc.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.appround.biz
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.bigspeedpro.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.bispd.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.bisrv.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.cdndp.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.download.sweetpacks.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.dpdownload.com
+
+
+    Nombre de registro  . : 0.0.0.0.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 591071
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : cdn.visualbee.net
+
+
+    tracking.opencandy.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    tracking.opencandy.com
+    ----------------------------------------
+    Nombre de registro  . : tracking.opencandy.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591067
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    installer.betterinstaller.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    installer.betterinstaller.com
+    ----------------------------------------
+    Nombre de registro  . : installer.betterinstaller.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591067
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    api.github.com
+    ----------------------------------------
+    Nombre de registro  . : api.github.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 11
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 140.82.114.6
+
+
+    www.google.ro
+    ----------------------------------------
+    Nombre de registro  . : www.google.ro
+    Tipo de registro  . . : 28
+    Período de vida . . . : 139
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:81a::2003
+
+
+    www.google.ro
+    ----------------------------------------
+    Nombre de registro  . : www.google.ro
+    Tipo de registro  . . : 1
+    Período de vida . . . : 139
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.227
+
+
+    cdn.guttastatdk.us
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.guttastatdk.us
+    ----------------------------------------
+    Nombre de registro  . : cdn.guttastatdk.us
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591067
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    google.com
+    ----------------------------------------
+    Nombre de registro  . : google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 105
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:81a::200e
+
+
+    google.com
+    ----------------------------------------
+    Nombre de registro  . : google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 101
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.238
+
+
+    login.yahoo.com
+    ----------------------------------------
+    Nombre de registro  . : login.yahoo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 49
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : ds-ats.member.g02.yahoodns.net
+
+
+    Nombre de registro  . : ds-ats.member.g02.yahoodns.net
+    Tipo de registro  . . : 28
+    Período de vida . . . : 49
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:4998:44:3304::2000
+
+
+    login.yahoo.com
+    ----------------------------------------
+    Nombre de registro  . : login.yahoo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 46
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : ds-ats.member.g02.yahoodns.net
+
+
+    Nombre de registro  . : ds-ats.member.g02.yahoodns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 46
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 98.137.156.136
+
+
+    simplitutoringhub.co.za
+    ----------------------------------------
+    Nombre de registro  . : simplitutoringhub.co.za
+    Tipo de registro  . . : 1
+    Período de vida . . . : 12366
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 169.1.20.212
+
+
+    sfbay.craigslist.org
+    ----------------------------------------
+    Nombre de registro  . : sfbay.craigslist.org
+    Tipo de registro  . . : 5
+    Período de vida . . . : 136
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cities.g.craigslist.org
+
+
+    Nombre de registro  . : cities.g.craigslist.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 136
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 208.82.238.242
+
+
+    tfosrv.com
+    ----------------------------------------
+    Nombre de registro  . : tfosrv.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1480
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 67.22.42.114
+
+
+    twitter.com
+    ----------------------------------------
+    Nombre de registro  . : twitter.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 836
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.244.42.1
+
+
+    Nombre de registro  . : twitter.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 836
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.244.42.193
+
+
+    0.0.0.0
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    0.0.0.0
+    ----------------------------------------
+    Nombre de registro  . : 0.0.0.0
+    Tipo de registro  . . : 1
+    Período de vida . . . : 604800
+    Longitud de datos . . : 4
+    Sección . . . . . . . : pregunta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.file2desktop.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.file2desktop.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.file2desktop.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591064
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    cdn.opencandy.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.opencandy.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.opencandy.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591064
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    www.cryptohopper.com
+    ----------------------------------------
+    Nombre de registro  . : www.cryptohopper.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 58
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700:3108::ac42:2b5a
+
+
+    Nombre de registro  . : www.cryptohopper.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 58
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700:3108::ac42:28a6
+
+
+    www.cryptohopper.com
+    ----------------------------------------
+    Nombre de registro  . : www.cryptohopper.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 58
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.66.40.166
+
+
+    Nombre de registro  . : www.cryptohopper.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 58
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.66.43.90
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2506
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2506
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2506
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2506
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
+    mybestdl.com
+    ----------------------------------------
+    Nombre de registro  . : mybestdl.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 7465
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 173.192.101.30
+
+
+    cdn.montiera.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    cdn.montiera.com
+    ----------------------------------------
+    Nombre de registro  . : cdn.montiera.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 591064
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 0.0.0.0
+
+
+    explodie.org
+    ----------------------------------------
+    Nombre de registro  . : explodie.org
+    Tipo de registro  . . : 28
+    Período de vida . . . : 14118
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:470:1:189:0:1:2:3
+
+
+    explodie.org
+    ----------------------------------------
+    Nombre de registro  . : explodie.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 7370
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 184.105.151.166
