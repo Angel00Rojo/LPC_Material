@@ -54,4 +54,4 @@ def connect_ftp(
 
 if __name__ == "__main__":
     connect_ftp(host="ftp.heanet.ie",
-                save_path="C:\Users\migue\AppData\Local\GitHubDesktop\Practica_7")
+                save_path="C:\Users\migue\OneDrive\Escritorio\Practicas\Practica_7")
